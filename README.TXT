@@ -1,12 +1,19 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+README
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: ExplosiveEvasion
+
+PURPOSE OF PROJECT: 
+
+Challenge players to navigate a rocket through space while avoiding bombs. The goal is to test quick reflexes and decision-making skills in a fun and fast-paced environment. This game offers replayability and increasing difficulty, pushing players to beat their own high scores.
+
+VERSION or DATE: December 2023
+
+AUTHORS: Amreen Kaur and Michelle Lee
+
+USER INSTRUCTIONS: 
+
+Use the 'Up', 'Down', 'Left' and 'Right' arrow keys to navigate your rocket towards the yellow points, while avoiding the bombs. Making contact with the bombs docks a point, while a yellow point gains you one. The goal is to stay in the game long as possible! You may reset the game to create a new one, but the high score remains, so you can constantly try and beat it!
+
+------------------------------------------------------------------------
