@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=bomb
+comment1.params=speed
+comment1.target=bomb(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getRocketScore2()
+numComments=4
