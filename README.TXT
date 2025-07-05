@@ -13,7 +13,7 @@ VERSION or DATE: December 2022
 AUTHORS: Amreen Kaur and Michelle Lee
 
 USER INSTRUCTIONS: 
-
+Import into Greenfoot
 Use the 'Up', 'Down', 'Left' and 'Right' arrow keys to navigate your rocket towards the yellow points, while avoiding the bombs. Making contact with the bombs docks a point, while a yellow point gains you one. The goal is to stay in the game long as possible! You may reset the game to create a new one, but the high score remains, so you can constantly try and beat it!
 
 ------------------------------------------------------------------------
